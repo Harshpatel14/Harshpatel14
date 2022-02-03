@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshpatel14
-- 👀 I’m interested in Machine earning and Deep learning.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in Data Science, Machine learning and Deep learning.
+- 🌱 I’m currently an Data Science intern at BrainyBeam Technologies Pvt. Ltd.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
